@@ -9,7 +9,7 @@ permalink: /logistics/
 - **Instructor:** Dixin Tang (dixin@utexas.edu)  
 - **Teaching Assistant:** Tianming Wu (tianming.wu@utexas.edu)
 - **Course Time/Location:** Tuesday/Thursday 2:00 p.m.-3:30 p.m. at TBD
-- **Office Hours:** Wednesday 11-12 am or by appointment
+- **Office Hours:** Wednesday 11 am - noon at GDC 5.824 or by appointment
 
 ## Course Policies
 
@@ -27,7 +27,7 @@ We will use EdDiscussion for class communication, including announcements, and C
 | Attendance and Participation | 15%    | N/A |
 | Six Quizzes              | 18% (3% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
 | Two Exams                | 30% (15% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
-| **Final Project**        |            | Forming a group by **09/04/2026** |
+| **Final Project**        |            |  |
 | Progress Presentation 1  | 8%         | **09/29/2026** |
 | Progress Presentation 2  | 8%         | **11/03/2026** |
 | Final Progress Presentation | 8%      | **12/03/2026** |
