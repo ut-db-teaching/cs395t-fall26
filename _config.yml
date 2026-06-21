@@ -1,8 +1,8 @@
 # Site settings
-course_name: CS 395T Database Systems and LLMs 
-course_semester: "Fall 2025"
+course_name: CS 395T Advanced Database Systems 
+course_semester: "Fall 2026"
 
-baseurl: "/cs395t-fall25" # the subpath of your site, e.g. /blog/
+baseurl: "/cs395t-fall26" # the subpath of your site, e.g. /blog/
 url: "http://ut-db-teaching.github.io/" # the base hostname & protocol for your site
 
 # schoolname: "UTCS"
