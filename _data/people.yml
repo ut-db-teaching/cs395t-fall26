@@ -3,3 +3,6 @@ instructors:
     profile_pic: /_images/pp/tang.jpg
     webpage: https://dx-tang.github.io/ 
 
+teaching_assistants:
+  - name: Tianming Wu
+    profile_pic: /_images/pp/ta.jpg

@@ -1,47 +1,35 @@
 ---
 layout: page
-title: Workloads 
+title: Workloads
 permalink: /workloads/
 ---
 ## Mini Write-Ups
 
-In each paper discussion class, we will cover **two papers**. All students are required to **submit a mini write-up for the two papers** before class. 
+In each paper discussion class, we will cover one paper. All students are required to submit a mini write-up for the paper before each class.
 
 Each write-up should include:
-- A brief summary (a few sentences) for each paper
-- Two strengths of each paper
-- Two weaknesses of each paper
+- A brief summary of the paper using a few sentences
+- Two strengths of the paper
+- Two weaknesses of the paper
 
 **Due:** 11:59 PM CST, the day before each class
 
-## Paper Presentation
+## In-Class Participation
 
-Each paper discussion class will have one student present **Paper 1** and lead the discussion of **Paper 2** (no formal presentation needed for Paper 2) in the schedule [spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing)
+Each student should actively participate in the discussion. Students are encouraged to ask questions during the presentation, discuss the pros and cons of the paper, and brainstorm potential research ideas.
 
-Presentation guidelines:
-- Approximately 15 minutes
-- Cover the paper’s motivation, problem setting, techniques, and experiments 
+## Quizzes and Exams
 
-Depending on enrollment, each student will present in **1 to 3 classes**.
-
-## Attendance and Participation
-
-Active participation is expected in every class.
-
-Students should:
-- Ask questions during presentations
-- Discuss the pros and cons of each paper
-- Brainstorm potential ideas that can improve upon the papers
+In-class quizzes will be used to assess the understanding of the course materials. Each quiz is around 15 minutes.
  
 ## Project Presentation and Final Report
 
-Students will form small groups (**maximum of 3 members**) to conduct a research project on the topics of this seminar.
+Students will form small groups, with no more than 3 members per group, and each group will conduct a research project centered around the topic of this seminar.
 
 Project deliverables include:
-- **Two in-class project progress presentations**:
-  - **Progress presentation 1:** Problem definition and initial motivating experiments
-  - **Progress presentation 2:** Design of proposed solutions and preliminary results
-- **Final project presentation:** End-to-end project results
+- **Progress presentation 1:** Problem definition and initial experiments that motivate it
+- **Progress presentation 2:** Design of the proposed solutions and preliminary results
+- **Final presentation:** End-to-end project results
 - **Final written project report**
 
-Students are welcome to propose their own research projects. The instructor will provide a list of candidate projects.
+Each group will give two in-class project progress reports and a final presentation. In addition, each group is required to submit a final written project report.
