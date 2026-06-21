@@ -1,0 +1,16 @@
+items:
+- url: /
+  name: Home
+  icon_class: fa fa-home fa-lg
+
+- url: /workloads/
+  name: Workloads 
+  icon_class: fas fa-tasks 
+
+- url: /schedule/
+  name: Schedule 
+  icon_class: fas fa-calendar-alt
+
+- url: /logistics/
+  name: Logistics and Policies 
+  icon_class: fas fa-balance-scale 

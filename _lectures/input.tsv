@@ -1,0 +1,30 @@
+08/27/2024	Lecture #1: Course Overview, Logistics, and Relational Model	Lab 0 Released
+08/29/2024	Lecture #2: Interface - Modern SQL	
+09/03/2024	Lecture #3: Storage - Data Organization	
+09/05/2024	Lecture #4: Storage - Buffer Manager	
+09/10/2024	Lecture #5: Storage - B+Tree Index	Lab 1 Released
+09/12/2024	Lecture #6: Storage - Hash Table Index	
+09/17/2024	Lecture #7: Storage - Index Concurrency Control	Lab 0 Due
+09/19/2024	Lecture #8: Execution - Sorting/Aggregation	
+09/24/2024	Lecture #9: Execution - Join Algorithms	
+09/26/2024	Lecture #10: Execution - Execution Model	In-Class Quiz 1
+10/01/2024	Lecture #11: Execution - Parallel Execution	
+10/03/2024	Lecture #12: Optimization - Query Optimization Overview, Rewrite Rules	
+10/08/2024	Lecture #13: Optimization - Search Algorithms, Cost Models	Lab 1 Due; Lab 2 Released
+10/10/2024	Midterm Review	
+10/15/2024	Midterm Exam	
+10/17/2024	Lecture #14: Execution - Transaction Theory	
+10/22/2024	Lecture #15: Execution - Locking-Based Concurrency Control	
+10/24/2024	Lecture #16: Execution - OCC/TO/MVCC	
+10/29/2024	Lecture #17: Execution - Logging, Checkpointing, and Recovery 1	Lab 2 Due; Lab 3 Released
+10/31/2024	Lecture #18: Execution - Logging, Checkpointing, and Recovery 2	
+11/05/2024	Lecture #19: Distributed Databases	
+11/07/2024	Lecture #20: Distributed Transactions	
+11/12/2024	Lecture #21: Analytical Databases	
+11/14/2024	Lecture #22: Distributed Analytical Databases	
+11/19/2024	Lecture #23: Interface - User-Defined Functions	Lab 3 Due
+11/21/2024	Lecture #24: Cloud Databases	In-Class Quiz 2
+11/26/2024	Fall Break / No Class	
+11/28/2024	Fall Break / No Class	
+12/03/2024	Lecture #25: Database Trends	
+12/05/2024	Final Review	
