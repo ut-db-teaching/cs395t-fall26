@@ -13,18 +13,19 @@ permalink: /logistics/
 
 ## Course Policies
 
-All assignments are submitted on Canvas.
+Assignments are submitted on Canvas. Lecture nodes are submitted on EdDiscussion.
 
 All classes will be in person and will not support online attendance. Attendance is crucial in a seminar course. Missing no more than three classes is acceptable due to sickness or travel. Please email me if you need to miss more classes. If you do not show up for classes consistently, or do not participate in class discussions, you will not receive full credit for class participation.
 
-We will use EdDiscussion for class communication, including announcements, and Canvas for assignment submissions.
+We will use EdDiscussion for class communication.
 
 ## Grading Policy
 
 |                          | % of Grade | Due Date / Notes |
 |--------------------------|------------|------------------|
 | Mini Write-Ups           | 5%         | Due at 11:59 PM CST, the day before each class |
-| Attendance and Participation | 15%    | N/A |
+| Attendance and Participation | 12%    | N/A |
+| Lecture notes | 3%    | N/A |
 | Six Quizzes              | 18% (3% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
 | Two Exams                | 30% (15% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
 | **Final Project**        |            |  |

@@ -9,14 +9,18 @@ In each paper discussion class, we will cover one paper. All students are requir
 
 Each write-up should include:
 - A brief summary of the paper using a few sentences
-- Two strengths of the paper
-- Two weaknesses of the paper
+- Three strengths of the paper
+- Three weaknesses of the paper
 
 **Due:** 11:59 PM CST, the day before each class
 
 ## In-Class Participation
 
 Each student should actively participate in the discussion. Students are encouraged to ask questions during the presentation, discuss the pros and cons of the paper, and brainstorm potential research ideas.
+
+## Lecture Notes
+
+Each student needs to take lecture notes for one class and share them with the whole class.
 
 ## Quizzes and Exams
 
