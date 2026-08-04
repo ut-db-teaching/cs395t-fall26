@@ -11,11 +11,18 @@ permalink: /logistics/
 - **Course Time/Location:** Tuesday/Thursday 2:00 p.m.-3:30 p.m. at TBD
 - **Office Hours:** Wednesday 11 am - noon at GDC 5.824 or by appointment
 
+## Teaching Format
+
+All classes will be in person and will not support online attendance. 
+
+The lectures will be whiteboard-only. No slides or lecture notes are provided.
+
+
 ## Course Policies
 
 Assignments are submitted on Canvas. Lecture nodes are submitted on EdDiscussion.
 
-All classes will be in person and will not support online attendance. Attendance is crucial in a seminar course. Missing no more than three classes is acceptable due to sickness or travel. Please email me if you need to miss more classes. If you do not show up for classes consistently, or do not participate in class discussions, you will not receive full credit for class participation.
+Attendance is crucial in a seminar course. Missing no more than three classes is acceptable due to sickness or travel. Please email me if you need to miss more classes. If you do not show up for classes consistently, or do not participate in class discussions, you will not receive full credit for class participation.
 
 We will use EdDiscussion for class communication.
 
