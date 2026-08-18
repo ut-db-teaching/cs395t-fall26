@@ -8,7 +8,7 @@ permalink: /logistics/
 
 - **Instructor:** Dixin Tang (dixin@utexas.edu)  
 - **Teaching Assistant:** Tianming Wu (tianming.wu@utexas.edu)
-- **Course Time/Location:** Tuesday/Thursday 2:00 p.m.-3:30 p.m. at TBD
+- **Course Time/Location:** Tuesday/Thursday 2:00 p.m.-3:30 p.m. at GDC 5.304
 - **Office Hours:** Wednesday 11 am - noon at GDC 5.824 or by appointment
 
 ## Teaching Format
