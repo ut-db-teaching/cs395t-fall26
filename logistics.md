@@ -9,7 +9,7 @@ permalink: /logistics/
 - **Instructor:** Dixin Tang (dixin@utexas.edu)  
 - **Teaching Assistant:** Tianming Wu (tianming.wu@utexas.edu)
 - **Course Time/Location:** Tuesday/Thursday 2:00 p.m.-3:30 p.m. at GDC 5.304
-- **Office Hours:** Wednesday 11 am - noon at GDC 5.824 or by appointment
+- **Office Hours:** Wednesday 10 am - 11 am at GDC 5.824 or by appointment
 
 ## Teaching Format
 
@@ -20,7 +20,7 @@ The lectures will be whiteboard-only. No slides or lecture notes are provided.
 
 ## Course Policies
 
-Assignments are submitted on Canvas. Lecture nodes are submitted on EdDiscussion.
+Assignments are submitted on Canvas. 
 
 Attendance is crucial in a seminar course. Missing no more than three classes is acceptable due to sickness or travel. Please email me if you need to miss more classes. If you do not show up for classes consistently, or do not participate in class discussions, you will not receive full credit for class participation.
 
@@ -31,8 +31,7 @@ We will use EdDiscussion for class communication.
 |                          | % of Grade | Due Date / Notes |
 |--------------------------|------------|------------------|
 | Mini Write-Ups           | 5%         | Due at 11:59 PM CST, the day before each class |
-| Attendance and Participation | 12%    | N/A |
-| Lecture notes | 3%    | N/A |
+| Attendance and Participation | 15%    | N/A |
 | Six Quizzes              | 18% (3% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
 | Two Exams                | 30% (15% each) | Check the [spreadsheet](https://docs.google.com/spreadsheets/d/1TS-6N8Z1GIPZzwRsSYavfiob1FvsAD_igcOscDrGBSM/edit?usp=sharing) for the dates |
 | **Final Project**        |            |  |

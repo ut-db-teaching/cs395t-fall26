@@ -18,10 +18,6 @@ Each write-up should include:
 
 Each student should actively participate in the discussion. Students are encouraged to ask questions during the presentation, discuss the pros and cons of the paper, and brainstorm potential research ideas.
 
-## Lecture Notes
-
-Each student needs to take lecture notes for one class and share them with the whole class.
-
 ## Quizzes and Exams
 
 In-class quizzes and exams will be used to assess the understanding of the course materials. Each quiz is around 15 minutes.
